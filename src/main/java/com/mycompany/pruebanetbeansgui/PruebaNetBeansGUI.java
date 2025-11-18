@@ -11,6 +11,6 @@ package com.mycompany.pruebanetbeansgui;
 public class PruebaNetBeansGUI {
 
     public static void main(String[] args) {
-        System.out.println("Actualización final desde Windows 10 a GitHub!");
+        System.out.println("Actualización final desde Windows 10 a GitHub2!");
     }
 }
