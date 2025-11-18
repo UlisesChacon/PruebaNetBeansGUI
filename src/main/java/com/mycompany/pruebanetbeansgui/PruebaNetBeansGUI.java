@@ -11,6 +11,6 @@ package com.mycompany.pruebanetbeansgui;
 public class PruebaNetBeansGUI {
 
     public static void main(String[] args) {
-        System.out.println("Hello World GUI!");
+        System.out.println("Hello World GUI UWU!");
     }
 }
